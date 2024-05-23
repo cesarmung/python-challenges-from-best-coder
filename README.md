@@ -1,1 +1,1 @@
-# python-challenges-from-best-coder
+# python-challenges
